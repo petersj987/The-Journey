@@ -4,7 +4,7 @@ Welcome to the definitive archive of my evolution in cybersecurity. This is not 
 
 ---
 
-## The Vision: Defining the Objective
+## Defining the Objective
 Right now, I am dismantling foundational web vulnerabilities, studying the mechanics of input validation, and learning how applications break. 
 
 Where this leads is clear: **becoming an elite, sharp-sighted penetration tester and security strategist.** I see myself not just executing tools, but deeply understanding architecture, building custom exploits, and engineering robust remediations that defend global infrastructure. This repository tracks that transition from an ambitious builder to an unstoppable security professional.
